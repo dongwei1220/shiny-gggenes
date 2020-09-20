@@ -19,6 +19,10 @@ Finally, the shiny-gggenes app will be accessible at http://localhost:3838
 
 # Online availability
 The shiny-gggenes App is freely available at
+> https://dongwei.shinyapps.io/gggenes
+
+or
+
 > https://hiplot.com.cn/advance/gggenes
 
 ![image.png](https://upload-images.jianshu.io/upload_images/8723194-d940ed8f2ad849fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
